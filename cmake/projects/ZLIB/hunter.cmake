@@ -82,7 +82,7 @@ hunter_add_version(
     URL
     "https://github.com/hunterdevel/zlib/archive/v1.2.11-p2.tar.gz"
     SHA1
-    318793c047aa7252ba0aee67010396529c6f5366
+    8b07d3c26ac3fff2d5e9da25aac70d27c2978f23
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
